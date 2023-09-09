@@ -1,0 +1,100 @@
+discharge_Year,TypeOfCare,Discharges,City
+2012,Acute Care,135323,Chicago
+2012,Chemical Dependency Recovery Care,432,Dale
+2012,Physical Rehabilitation Care,1397,Rockville
+2012,Psychiatric Care,6739,Los Angeles
+2012,Skilled Nursing/Intermediate Care,1556,Miami
+2013,Acute Care,129781,Chicago
+2013,Chemical Dependency Recovery Care,373,Chicago
+2013,Physical Rehabilitation Care,1381,Rockville
+2013,Psychiatric Care,6724,Rockville
+2013,Skilled Nursing/Intermediate Care,1501,Miami
+2014,Acute Care,127902,Miami
+2014,Chemical Dependency Recovery Care,469,Dale
+2014,Physical Rehabilitation Care,1404,Dale
+2014,Psychiatric Care,6930,Los Angeles
+2014,Skilled Nursing/Intermediate Care,879,Los Angeles
+2015,Acute Care,127249,Miami
+2015,Chemical Dependency Recovery Care,312,Los Angeles
+2015,Physical Rehabilitation Care,1559,Rockville
+2015,Psychiatric Care,7015,Chicago
+2015,Skilled Nursing/Intermediate Care,817,Chicago
+2016,Acute Care,127880,Dale
+2016,Chemical Dependency Recovery Care,287,Miami
+2016,Physical Rehabilitation Care,1711,Los Angeles
+2016,Psychiatric Care,6866,Dale
+2016,Skilled Nursing/Intermediate Care,842,Chicago
+2017,Acute Care,125789,Miami
+2017,Chemical Dependency Recovery Care,313,Miami
+2017,Invalid/Blank,1,Miami
+2017,Physical Rehabilitation Care,1688,Rockville
+2017,Psychiatric Care,6762,Rockville
+2017,Skilled Nursing/Intermediate Care,797,Dale
+2012,Acute Care,28,Los Angeles
+2012,Physical Rehabilitation Care,1,Chicago
+2012,Psychiatric Care,1,Chicago
+2012,Skilled Nursing/Intermediate Care,2,Dale
+2013,Acute Care,21,Dale
+2013,Physical Rehabilitation Care,1,Rockville
+2013,Psychiatric Care,2,Miami
+2014,Acute Care,14,Dale
+2014,Physical Rehabilitation Care,1,Rockville
+2014,Psychiatric Care,4,Chicago
+2014,Skilled Nursing/Intermediate Care,1,Chicago
+2015,Acute Care,26,Los Angeles
+2015,Psychiatric Care,3,Los Angeles
+2016,Acute Care,26,Rockville
+2016,Psychiatric Care,2,Rockville
+2017,Acute Care,25,Dale
+2017,Psychiatric Care,4,Dale
+2012,Acute Care,4230,Miami
+2012,Chemical Dependency Recovery Care,3,Miami
+2012,Physical Rehabilitation Care,41,Los Angeles
+2012,Psychiatric Care,96,Chicago
+2012,Skilled Nursing/Intermediate Care,19,Dale
+2013,Acute Care,3985,Rockville
+2013,Chemical Dependency Recovery Care,3,Rockville
+2013,Physical Rehabilitation Care,40,Los Angeles
+2013,Psychiatric Care,122,Los Angeles
+2013,Skilled Nursing/Intermediate Care,6,Dale
+2014,Acute Care,4049,Dale
+2014,Physical Rehabilitation Care,60,Chicago
+2014,Psychiatric Care,103,Chicago
+2014,Skilled Nursing/Intermediate Care,5,Miami
+2015,Acute Care,4350,Miami
+2015,Chemical Dependency Recovery Care,1,Los Angeles
+2015,Physical Rehabilitation Care,40,Miami
+2015,Psychiatric Care,133,Rockville
+2015,Skilled Nursing/Intermediate Care,10,Dale
+2016,Acute Care,4300,Chicago
+2016,Chemical Dependency Recovery Care,1,Rockville
+2016,Physical Rehabilitation Care,41,Rockville
+2016,Psychiatric Care,205,Chicago
+2016,Skilled Nursing/Intermediate Care,6,Dale
+2017,Acute Care,4390,Dale
+2017,Chemical Dependency Recovery Care,1,Miami
+2017,Physical Rehabilitation Care,45,Miami
+2017,Psychiatric Care,123,Los Angeles
+2017,Skilled Nursing/Intermediate Care,10,Los Angeles
+2012,Acute Care,29918,Rockville
+2012,Chemical Dependency Recovery Care,11,Dale
+2012,Physical Rehabilitation Care,394,Chicago
+2012,Psychiatric Care,1412,Chicago
+2012,Skilled Nursing/Intermediate Care,642,Dale
+2013,Acute Care,29959,Dale
+2013,Chemical Dependency Recovery Care,14,Rockville
+2013,Physical Rehabilitation Care,433,Rockville
+2013,Psychiatric Care,1488,Los Angeles
+2013,Skilled Nursing/Intermediate Care,528,Los Angeles
+2014,Acute Care,30456,Miami
+2014,Chemical Dependency Recovery Care,9,Miami
+2014,Physical Rehabilitation Care,373,Miami
+2014,Psychiatric Care,1551,Dale
+2014,Skilled Nursing/Intermediate Care,116,Dale
+2015,Acute Care,31313,Chicago
+2015,Chemical Dependency Recovery Care,17,Dale
+2015,Physical Rehabilitation Care,394,Rockville
+2015,Psychiatric Care,1402,Los Angeles
+2015,Skilled Nursing/Intermediate Care,169,Chicago
+2016,Acute Care,32260,Miami
+2016,Chemical Dependency Recovery Care,8,Dale
